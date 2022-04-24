@@ -2,7 +2,8 @@
 
 挖坑不填坑，坑没填完还挖坑
 
-~~除了涩涩~~什么都不会的渣渣
+正在学习中  
+目前还是个什么都不会的渣渣 ~~(除了涩涩)~~
 
 ```python3
 # Runtime
@@ -15,3 +16,8 @@ class wyapx:
             self.gugugu(86399.9)
 
 ```
+<details>
+<summary>看到我了吗</summary>
+
+~~**还不快把star和follow给我交了**~~
+</details>
