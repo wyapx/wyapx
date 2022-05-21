@@ -12,8 +12,8 @@ class wyapx:
     def gugugu(self, duration: int): ...
     def run(self):
         while True:
-            self.coding(0.1)
-            self.gugugu(86399.9)
+            self.coding(1)
+            self.gugugu(86399)
 
 ```
 <details>
